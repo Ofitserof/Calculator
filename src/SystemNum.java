@@ -1,0 +1,3 @@
+enum SystemNum {
+    ROME, ARAB
+}
